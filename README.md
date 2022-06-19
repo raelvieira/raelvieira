@@ -34,7 +34,3 @@
 </div>
 
 ###
-
-<img href="https://raw.githubusercontent.com/raelvieira/raelvieira/blob/output/snake.svg" alt="Snake animation" />
-
-###
