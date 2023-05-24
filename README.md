@@ -12,7 +12,3 @@
 ## 🌐 connect with me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/israelvieiraa) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@israelvieiradev) 
-
----
-
-[![](https://visitcount.itsvg.in/api?id=raelvieira&icon=2&color=12)](https://visitcount.itsvg.in)
