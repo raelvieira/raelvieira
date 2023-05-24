@@ -3,9 +3,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=raelvieira&show_icons=true&locale=en" alt="raelvieira" height="170"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=raelvieira&theme=default&hide_border=false" height="170" alt="current streak graph"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raelvieira&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="170" alt="languages graph"/>
 </div>
 
 # 💻 Tech Stack:
